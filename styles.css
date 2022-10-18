@@ -1,0 +1,9 @@
+@media (max-width: 992px) {
+    .title {
+        text-align: center;
+    }
+}
+body {
+
+    background-image: linear-gradient(to right, #e2aaf5e8 0%, rgba(4, 208, 223, 0.377) 100%);
+}
