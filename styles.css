@@ -2,8 +2,41 @@
     .title {
         text-align: center;
     }
+    .ca {
+        text-align: center;
+    }
 }
 body {
 
     background-image: linear-gradient(to right, #e2aaf5e8 0%, rgba(4, 208, 223, 0.377) 100%);
 }
+.navbar a {
+    font-family: 'Lora', serif;
+    font-size: x-large;
+}
+p   {
+
+    font-family: 'Kalam', cursive;
+
+
+
+}
+h2,h3,h5,h4{
+
+    font-family: 'Kalam', cursive;
+}
+h1{
+
+    font-family: 'Lora', serif;  
+}
+.ca{
+
+    font-family: 'Waterfall', cursive;
+    font-weight: 1000;
+    font-size: 300%;
+    margin-right: 5%;
+    color: rgb(19, 105, 155);
+}
+
+/* ka */
+
