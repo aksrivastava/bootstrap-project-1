@@ -2,9 +2,7 @@
     .title {
         text-align: center;
     }
-    .ca {
-        text-align: center;
-    }
+    
 }
 body {
 
@@ -34,7 +32,7 @@ h1{
     font-family: 'Waterfall', cursive;
     font-weight: 1000;
     font-size: 300%;
-    margin-right: 5%;
+    
     color: rgb(19, 105, 155);
 }
 
