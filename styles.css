@@ -2,8 +2,17 @@
     .title {
         text-align: center;
     }
+/*     .ca {text-align: center !important; } */
+}
+
+@media (min-width: 992px) {
+   
     .ca {text-align: center !important; }
 }
+
+
+
+
 body {
 
     background-image: linear-gradient(to right, #e2aaf5e8 0%, rgba(4, 208, 223, 0.377) 100%);
